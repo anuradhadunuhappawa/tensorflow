@@ -1,0 +1,19 @@
+{
+  "name": "tensorflow",
+  "version": "1.0.0",
+  "description": "Tensorflow js implementation",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuradhadunuhappawa/tensorflow.git"
+  },
+  "author": "Anuradha Dunuhappawa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anuradhadunuhappawa/tensorflow/issues"
+  },
+  "homepage": "https://github.com/anuradhadunuhappawa/tensorflow#readme"
+}
